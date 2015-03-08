@@ -1,0 +1,10 @@
+// Tennis
+0 => Love
+1-0 => Fifteen-Love
+2-0 => Thirty-Love
+3-0 => Fourty-Love
+4-O => Win
+
+2-2 => Thirty-All
+4-4 => Deuce
+4-3 => Advantage Player
