@@ -40,6 +40,16 @@ class BowlingGameSpec extends ObjectBehavior {
 		$this->score()->shouldBe(28);
 	}
 
+    function it_awards_a_one_roll_bonus_for_a_gutter_and_a_ten()
+    {
+        $this->roll(0);
+        $this->roll(10);
+        $this->roll(7);
+        $this->roll(2);
+        $this->rollTimes(16, 0);
+        $this->score()->shouldBe(26);
+    }
+
 	function it_scores_a_perfect_game()
 	{
 		$this->rollTimes(12, 10);
