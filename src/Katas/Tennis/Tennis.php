@@ -9,7 +9,7 @@ class Tennis
      * @var Player
      */
     private $player1;
-    
+
     /**
      * @var Player
      */
