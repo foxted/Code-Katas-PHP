@@ -45,8 +45,6 @@ class RomanNumeralsConverter {
 			{
 				$solution .= $glyph;
 				$number -= $limit;
-				$number = $limit;
-                // $number = $number + $limit;
 			}
 		}
 
