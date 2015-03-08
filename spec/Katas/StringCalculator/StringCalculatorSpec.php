@@ -1,6 +1,6 @@
-<?php namespace spec;
+<?php namespace spec\Katas\StringCalculator;
 
-use InvalidArgumentException;
+use \InvalidArgumentException;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 

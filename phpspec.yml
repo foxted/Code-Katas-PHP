@@ -1,0 +1,9 @@
+suites:
+    bowling_game_suite:
+        namespace: Katas\BowlingGame
+    prime_factors_suite:
+        namespace: Katas\PrimeFactors
+    roman_numerals_suite:
+        namespace: Katas\RomanNumerals
+    string_calculator_suite:
+        namespace: Katas\StringCalculator

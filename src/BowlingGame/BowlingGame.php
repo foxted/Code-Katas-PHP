@@ -1,5 +1,13 @@
-<?php
+<?php namespace Katas\BowlingGame;
 
+use InvalidArgumentException;
+
+/**
+ * Class BowlingGame
+ * @package Katas\BowlingGame
+ * @author  Valentin PRUGNAUD <valentin@whatdafox.com>
+ * @url http://www.foxted.com
+ */
 class BowlingGame {
 
 	/**

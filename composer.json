@@ -1,10 +1,11 @@
 {
+    "name":"foxted/Code-katas",
     "require": {
         "phpspec/phpspec": "~2.0"
     },
     "autoload": {
-        "psr-0": {
-            "": "src"
+        "psr-4": {
+            "Katas\\": "src"
         }
     }
 }

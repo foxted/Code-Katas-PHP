@@ -1,5 +1,13 @@
-<?php
+<?php namespace Katas\RomanNumerals;
 
+use InvalidArgumentException;
+
+/**
+ * Class RomanNumeralsConverter
+ * @package Katas\RomanNumerals
+ * @author  Valentin PRUGNAUD <valentin@whatdafox.com>
+ * @url http://www.foxted.com
+ */
 class RomanNumeralsConverter {
 
 	/**

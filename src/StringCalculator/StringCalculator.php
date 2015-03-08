@@ -1,5 +1,13 @@
-<?php
+<?php namespace Katas\StringCalculator;
 
+use InvalidArgumentException;
+
+/**
+ * Class StringCalculator
+ * @package Katas\StringCalculator
+ * @author  Valentin PRUGNAUD <valentin@whatdafox.com>
+ * @url http://www.foxted.com
+ */
 class StringCalculator {
 
 	/**

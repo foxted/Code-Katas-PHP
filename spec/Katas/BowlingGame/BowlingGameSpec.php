@@ -1,4 +1,4 @@
-<?php namespace spec;
+<?php namespace spec\Katas\BowlingGame;
 
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;

@@ -1,5 +1,11 @@
-<?php
+<?php namespace Katas\PrimeFactors;
 
+/**
+ * Class PrimeFactors
+ * @package Katas\PrimeFactors
+ * @author  Valentin PRUGNAUD <valentin@whatdafox.com>
+ * @url http://www.foxted.com
+ */
 class PrimeFactors {
 
 	/**
